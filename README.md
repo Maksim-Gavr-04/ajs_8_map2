@@ -1,6 +1,6 @@
 # `Map (задача со звёздочкой)`
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/3oneghw5ki34gvc4?svg=true)](https://ci.appveyor.com/project/Maksim-Gavr-04/ajs-8-map2)
 
 ## Легенда
 

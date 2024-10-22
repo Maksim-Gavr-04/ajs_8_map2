@@ -5,8 +5,8 @@ test('Testing the `add()` method with the correct parameters', () => {
   const settings = new Settings();
   settings.add('theme', 'gray');
 
-  const expected = new Map([ [ 'theme', 'gray' ] ]);
-
+  const expected = new Map();
+  expected.set('theme', 'gray');
   expect(settings.userSettings).toEqual(expected);
 });
 
