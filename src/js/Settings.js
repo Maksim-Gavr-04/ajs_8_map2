@@ -45,5 +45,3 @@ export class Settings {
     return new Map([ ...this.defaultSettings, ...this.userSettings ]);
   }
 }
-
-
